@@ -17,8 +17,8 @@ public class Week3 {
     public static void main(String[] args) {
         System.out.println("I am learning github");
        System.out.println("modified in the github"); 
-        //fetch and merge
+        //week3 fetch and merge
         
     }
-    //week3 changes
+
 }
