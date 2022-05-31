@@ -10,7 +10,7 @@ package week3;
  * @author Prabha
  */
 public class Week3 {
-
+// this is the copoy
     /**
      * @param args the command line arguments
      */
@@ -18,6 +18,6 @@ public class Week3 {
         System.out.println("I am learning github");
        System.out.println("modified in the github"); 
         
-    }
+}
     //week3 changes
 }
